@@ -1,6 +1,6 @@
 # Horiseon
 
-SEO marketing website can be viewed [here]()
+SEO marketing website can be viewed [here](https://leannecodes.github.io/market-website-refactor/)
 
 ## Description
 
