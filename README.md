@@ -1,2 +1,15 @@
-# market-website-refactor
-Refactoring a website, so that it follows semantic best practice and consolidated CSS
+# Horiseon
+
+SEO marketing website can be viewed [here]()
+
+## Description
+
+The aim was to refactor a website, so that it met accessibility standards and consolidated the CSS, so that it was easier to read.
+
+## Application Appearance
+
+![Hoiseon Website](./assets/images/project-img.png)
+
+## Credits
+
+EdxOnline Skills Bootcamp for the starter code that needed to be refactored.
